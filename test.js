@@ -1,1 +1,1 @@
-console.log("Moupriya")
+console.log("Moupriya");
